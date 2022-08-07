@@ -82,7 +82,7 @@ export const info = {
     bio: "Hello! I'm Austin. I'm an aspiring self taught data analyst. I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['python', 'sql', 'excel', 'github', 'tableau', 'html5', 'css3', 'photoshop'],
+            proficientWith: ['python', 'pandas/numpy', 'sql', 'excel', 'github', 'tableau', 'photoshop', 'google 🧑🔍'],
             exposedTo: ['javascript', 'html/css', 'R', 'tensorflow']
         }
     ,
@@ -92,7 +92,7 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
+            label: 'comedy',
             emoji: '🎭'
         },
         {
@@ -100,17 +100,17 @@ export const info = {
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'computers',
+            emoji: '💻'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Portfolio Project",
+            live: "https://ellerman4.github.io/ellerman4_portfolio/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/ellerman4/ellerman4_portfolio", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
@@ -126,15 +126,15 @@ export const info = {
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Placeholder",
+            live: "https://github.com/ellerman4",
+            source: "https://github.com/ellerman4",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Placeholder",
+            live: "https://github.com/ellerman4",
+            source: "https://github.com/ellerman4",
             image: mock5
         }
     ]

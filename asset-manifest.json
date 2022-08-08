@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/ellerman4_portfolio/static/css/main.b03de18c.css",
-    "main.js": "/ellerman4_portfolio/static/js/main.5826fd9b.js",
+    "main.css": "/ellerman4_portfolio/static/css/main.fdb0eff3.css",
+    "main.js": "/ellerman4_portfolio/static/js/main.2b9a5eac.js",
     "static/media/mock5.png": "/ellerman4_portfolio/static/media/mock5.c9b5f54e8517e13fc897.png",
     "static/media/mock1.png": "/ellerman4_portfolio/static/media/mock1.766a4ecd6355c54b899b.png",
     "static/media/mock3.png": "/ellerman4_portfolio/static/media/mock3.47296fbfdf3adb58a3f6.png",
     "static/media/self.png": "/ellerman4_portfolio/static/media/self.b8cd7311fb99916b5c7e.png",
+    "static/media/mock4.png": "/ellerman4_portfolio/static/media/mock4.f60f456258f65b6661fd.png",
     "static/media/mock2.png": "/ellerman4_portfolio/static/media/mock2.9d3e4ff0b25b297b49d3.png",
-    "static/media/gif_test.gif": "/ellerman4_portfolio/static/media/gif_test.81934df5aaecba32246a.gif",
-    "static/media/mock4.png": "/ellerman4_portfolio/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
     "index.html": "/ellerman4_portfolio/index.html",
-    "main.b03de18c.css.map": "/ellerman4_portfolio/static/css/main.b03de18c.css.map",
-    "main.5826fd9b.js.map": "/ellerman4_portfolio/static/js/main.5826fd9b.js.map"
+    "main.fdb0eff3.css.map": "/ellerman4_portfolio/static/css/main.fdb0eff3.css.map",
+    "main.2b9a5eac.js.map": "/ellerman4_portfolio/static/js/main.2b9a5eac.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03de18c.css",
-    "static/js/main.5826fd9b.js"
+    "static/css/main.fdb0eff3.css",
+    "static/js/main.2b9a5eac.js"
   ]
 }
